@@ -1,7 +1,7 @@
 # 💖 Chitti — All-in-One Discord Bot
 
 <p align="center">
-  <img src="./assets/chitti-banner.png" alt="Chitti banner" width="100%">
+  <img src="https://cdn.discordapp.com/attachments/1224047298133102783/1569317350388531350/d0e9a1bb-b0d4-4eb6-b978-6b4ee7abf61c.png?ex=6af3042c&amp;is=6af1b2ac&amp;hm=8a7bba854bebddf690ab97e2a8179651992b09fc9ea3850b7c08f9760f2aa29c&amp;" alt="Chitti banner" width="100%">
 </p>
 
 <p align="center">
